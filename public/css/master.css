@@ -1,0 +1,7 @@
+.pagination li{
+  display : inline-block;
+}
+
+.pagination a{
+  color:#000;
+}
